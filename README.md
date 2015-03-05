@@ -162,3 +162,4 @@ awesome-stars
 
 * [understanding-csrf](https://github.com/pillarjs/understanding-csrf)
 * [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js)
+* [es6features](https://github.com/lenville/es6features)
